@@ -1,3 +1,5 @@
+### Discussion: https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/13949
+
 # batched-hires
 
 This is Extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to set the batch size for second hires.fix pass separately from the first pass.

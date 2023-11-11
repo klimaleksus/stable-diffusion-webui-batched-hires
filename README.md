@@ -5,7 +5,7 @@
 This is Extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to set the batch size for second hires.fix pass separately from the first pass.
 
 ## Installation:
-Copy the link to this repository into `Extension index URL` in WebUI Extensions tab:
+Copy the link to this repository into `URL for extension's git repository` in WebUI `Extensions` → `Install from URL` tab:
 ```
 https://github.com/klimaleksus/stable-diffusion-webui-batched-hires
 ```
